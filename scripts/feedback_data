@@ -1,50 +1,135 @@
-"These results seem a little too pricey for me.",PRICEREDUCE
-"These results seems a little cheap for me",PRICEREDUCE
-"Can you show me cheaper results?",PRICEREDUCE
-"Can you show me more expensive results?",PRICEINCREASE
-"These results are too expensive.",PRICEREDUCE
-"These results are too cheap.",PRICEINCREASE
-"These are all outside of my budget.",PRICEREDUCE
-"These are all below my budget.",PRICEINCREASE
-"I'd like to go somewhere nicer.",PRICEINCREASE
-"I'd like to go somewhere more in my budget range.",PRICEREDUCE
-"These places seem too cheap.",PRICEINCREASE
-"These places seem too expensive.",PRICEREDUCE
-"I'd like to see fancier results.",PRICEINCREASE
-"I'd like eto see cheaper results.",PRICEREDUCE
-"These results are not sophisticated enough.",PRICEINCREASE
-"These results are too fancy.",PRICEREDUCE
-"Somewhere nicer than here would be good.",PRICEINCREASE
-"Somewhere cheaper than here would be good.",PRICEREDUCE
-"I want something nicer.",PRICEINCREASE
-"I want something cheaper",PRICEREDUCE
-"These results are all too far away.",LOCATIONREDUCE
-"These results are all too close.",LOCATIONINCREASE
-"I don't want to travel this far.",LOCATIONREDUCE
-"I want to travel further than this.",LOCATIONINCREASE
-"I need results that are closer to home.",LOCATIONREDUCE
-"I need results that are further from home.",LOCATIONINCREASE
-"These results take too much travel time.",LOCATIONREDUCE
-"I'd like to stay closer to home.",LOCATIONREDUCE
-"I'd like to go further from home.",LOCATIONINCREASE
-"I want more exotic results.",LOCATIONINCREASE
-"I want more local results.",LOCATIONREDUCE
-"These results are too close to home.",LOCATIONINCREASE
-"These results are too far from home.",LOCATIONREDUCE
-"Can I see locations that are further away?",LOCATIONINCREASE
-"Can I see locations that are closer to me?",LOCATIONREDUCE
-"I want to travel to a more unknown destination.",LOCATIONINCREASE
-"I want to travel to a well known destination.",LOCATIONREDUCE
-"I want to go somewhere new.",LOCATIONINCREASE
-"I want to go somewhere familiar",LOCATIONREDUCE
-"None of these results are close enough.",LOCATIONREDUCE
-"None of these results are far enough away.",LOCATIONINCREASE
-"I'm okay with spending more money.",PRICEINCREASE
-"I'm okay with spending less money.",PRICEREDUCE
-"None of these results are close enough to home.",LOCATIONREDUCE
-"None of these results are close enough.",LOCATIONREDUCE
-"I want something nicer.",PRICEINCREASE
-"I'm okay with spending more money.",PRICEINCREASE
-"I'm okay with spending more than this",PRICEINCREASE
-"I want to save money.",PRICEREDUCE
-"I want to spend money.",PRICEINCREASE
+these results seem a little too pricey for me,PRICEREDUCE
+These results seem a little too pricey for me.,PRICEREDUCE
+These results seems a little cheap for me,PRICEREDUCE
+can you show me cheaper results,PRICEREDUCE
+Can you show me cheaper results?,PRICEREDUCE
+Can you show me more expensive results?,PRICEINCREASE
+these results are too expensive,PRICEREDUCE
+These results are too expensive.,PRICEREDUCE
+These results are too cheap.,PRICEINCREASE
+These are all outside of my budget.,PRICEREDUCE
+these are all below my budget,PRICEINCREASE
+These are all below my budget.,PRICEINCREASE
+id like to go somewhere nicer,PRICEINCREASE
+I'd like to go somewhere nicer.,PRICEINCREASE
+id like to go somewhere more in my budget range,PRICEREDUCE
+I'd like to go somewhere more in my budget range.,PRICEREDUCE
+These places seem too cheap.,PRICEINCREASE
+These places seem too expensive.,PRICEREDUCE
+id like to see fancier results,PRICEINCREASE
+I'd like to see fancier results.,PRICEINCREASE
+id like eto see cheaper results,PRICEREDUCE
+I'd like eto see cheaper results.,PRICEREDUCE
+These results are not sophisticated enough.,PRICEINCREASE
+These results are too fancy.,PRICEREDUCE
+Somewhere nicer than here would be good.,PRICEINCREASE
+Somewhere cheaper than here would be good.,PRICEREDUCE
+i want something nicer,PRICEINCREASE
+I want something nicer.,PRICEINCREASE
+I want something cheaper,PRICEREDUCE
+these results are all too far away,LOCATIONREDUCE
+These results are all too far away.,LOCATIONREDUCE
+these results are all too close,LOCATIONINCREASE
+These results are all too close.,LOCATIONINCREASE
+somewhere closer,LOCATIONREDUCE
+Somewhere closer.,LOCATIONREDUCE
+somewhere close,LOCATIONREDUCE
+Somewhere close.,LOCATIONREDUCE
+why are these all so far away,LOCATIONREDUCE
+Why are these all so far away?,LOCATIONREDUCE
+i like places closer to where i live,LOCATIONREDUCE
+I like places closer to where I live.,LOCATIONREDUCE
+i want to go some place closer,LOCATIONREDUCE
+I want to go some place closer.,LOCATIONREDUCE
+These locations are too far away.,LOCATIONREDUCE
+Keep it around where I live.,LOCATIONREDUCE
+i dont want to leave the country for this trip,LOCATIONREDUCE
+I don't want to leave the country for this trip.,LOCATIONREDUCE
+i want to see things near me,LOCATIONREDUCE
+I want to see things near me.,LOCATIONREDUCE
+i want to see things nearer me,LOCATIONREDUCE
+I want to see things nearer me.,LOCATIONREDUCE
+"Nearer locations, please",LOCATIONREDUCE
+too distant for me,LOCATIONREDUCE
+Too distant for me.,LOCATIONREDUCE
+somewhere farther,LOCATIONINCREASE
+Somewhere farther.,LOCATIONINCREASE
+i want to see places far and wide,LOCATIONINCREASE
+I want to see places far and wide.,LOCATIONINCREASE
+More distant is better,LOCATIONINCREASE
+"This is way too close, I want something exotic.",LOCATIONINCREASE
+Can I have something farther away?,LOCATIONINCREASE
+overseas options would be appreciated,LOCATIONINCREASE
+Overseas options would be appreciated.,LOCATIONINCREASE
+i want places farther away,LOCATIONINCREASE
+I want places farther away.,LOCATIONINCREASE
+I want places on another continent.,LOCATIONINCREASE
+i should have to take a plane for it to be a real trip,LOCATIONINCREASE
+I should have to take a plane for it to be a real trip.,LOCATIONINCREASE
+i want to leave the country,LOCATIONINCREASE
+I want to leave the country.,LOCATIONINCREASE
+none of these results are far away enough from home,LOCATIONINCREASE
+None of these results are far away enough from home.,LOCATIONINCREASE
+these results are too close i want something farther away,LOCATIONINCREASE
+These results are too close; I want something farther away.,LOCATIONINCREASE
+i dont want to travel this far,LOCATIONREDUCE
+I don't want to travel this far.,LOCATIONREDUCE
+i want to travel further than this,LOCATIONINCREASE
+I want to travel further than this.,LOCATIONINCREASE
+i need results that are closer to home,LOCATIONREDUCE
+I need results that are closer to home.,LOCATIONREDUCE
+I need results that are further from home.,LOCATIONINCREASE
+these results take too much travel time,LOCATIONREDUCE
+These results take too much travel time.,LOCATIONREDUCE
+id like to stay closer to home,LOCATIONREDUCE
+I'd like to stay closer to home.,LOCATIONREDUCE
+I'd like to go further from home.,LOCATIONINCREASE
+I want more exotic results.,LOCATIONINCREASE
+I want more local results.,LOCATIONREDUCE
+these results are too close to home,LOCATIONINCREASE
+These results are too close to home.,LOCATIONINCREASE
+These results are too far from home.,LOCATIONREDUCE
+Can I see locations that are further away?,LOCATIONINCREASE
+Can I see locations that are closer to me?,LOCATIONREDUCE
+i want to travel to a more unknown destination,LOCATIONINCREASE
+I want to travel to a more unknown destination.,LOCATIONINCREASE
+i want to travel to a well known destination,LOCATIONREDUCE
+I want to travel to a well known destination.,LOCATIONREDUCE
+I want to go somewhere new.,LOCATIONINCREASE
+I want to go somewhere familiar,LOCATIONREDUCE
+None of these results are close enough.,LOCATIONREDUCE
+none of these results are far enough away,LOCATIONINCREASE
+None of these results are far enough away.,LOCATIONINCREASE
+I'm okay with spending more money.,PRICEINCREASE
+im okay with spending less money,PRICEREDUCE
+I'm okay with spending less money.,PRICEREDUCE
+none of these results are close enough to home,LOCATIONREDUCE
+None of these results are close enough to home.,LOCATIONREDUCE
+None of these results are close enough.,LOCATIONREDUCE
+I want something nicer.,PRICEINCREASE
+I'm okay with spending more money.,PRICEINCREASE
+im okay with spending more than this,PRICEINCREASE
+I'm okay with spending more than this,PRICEINCREASE
+I want to save money.,PRICEREDUCE
+i want to spend money,PRICEINCREASE
+I want to spend money.,PRICEINCREASE
+None of these results are far away enough from home.,LOCATIONINCREASE
+somewhere farther,LOCATIONINCREASE
+Can you show me cheaper results?,PRICEREDUCE
+Can you show me more expensive results?,PRICEINCREASE
+I should have to take a plane for it to be a real trip.,LOCATIONINCREASE
+I want something cheaper,PRICEREDUCE
+I'd like to go further from home.,LOCATIONINCREASE
+i want to travel to a more unknown destination,LOCATIONINCREASE
+These results are too close to home.,LOCATIONINCREASE
+too distant for me,LOCATIONREDUCE
+these results take too much travel time,LOCATIONREDUCE
+Somewhere farther.,LOCATIONINCREASE
+These results seem a little too pricey for me.,PRICEREDUCE
+I'd like to see fancier results.,PRICEINCREASE
+i dont want to travel this far,LOCATIONREDUCE
+none of these results are far away enough from home,LOCATIONINCREASE
+These results are not sophisticated enough.,PRICEINCREASE
+I need results that are further from home.,LOCATIONINCREASE
+i dont want to leave the country for this trip,LOCATIONREDUCE
+These results are too close; I want something farther away.,LOCATIONINCREASE

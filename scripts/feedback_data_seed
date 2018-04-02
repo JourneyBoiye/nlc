@@ -1,0 +1,74 @@
+"These results seem a little too pricey for me.",PRICEREDUCE
+"These results seems a little cheap for me",PRICEREDUCE
+"Can you show me cheaper results?",PRICEREDUCE
+"Can you show me more expensive results?",PRICEINCREASE
+"These results are too expensive.",PRICEREDUCE
+"These results are too cheap.",PRICEINCREASE
+"These are all outside of my budget.",PRICEREDUCE
+"These are all below my budget.",PRICEINCREASE
+"I'd like to go somewhere nicer.",PRICEINCREASE
+"I'd like to go somewhere more in my budget range.",PRICEREDUCE
+"These places seem too cheap.",PRICEINCREASE
+"These places seem too expensive.",PRICEREDUCE
+"I'd like to see fancier results.",PRICEINCREASE
+"I'd like eto see cheaper results.",PRICEREDUCE
+"These results are not sophisticated enough.",PRICEINCREASE
+"These results are too fancy.",PRICEREDUCE
+"Somewhere nicer than here would be good.",PRICEINCREASE
+"Somewhere cheaper than here would be good.",PRICEREDUCE
+"I want something nicer.",PRICEINCREASE
+"I want something cheaper",PRICEREDUCE
+"These results are all too far away.",LOCATIONREDUCE
+"These results are all too close.",LOCATIONINCREASE
+"Somewhere closer.",LOCATIONREDUCE
+"Somewhere close.",LOCATIONREDUCE
+"Why are these all so far away?",LOCATIONREDUCE
+"I like places closer to where I live.",LOCATIONREDUCE
+"I want to go some place closer.",LOCATIONREDUCE
+"These locations are too far away.",LOCATIONREDUCE
+"Keep it around where I live.",LOCATIONREDUCE
+"I don't want to leave the country for this trip.",LOCATIONREDUCE
+"I want to see things near me.",LOCATIONREDUCE
+"I want to see things nearer me.",LOCATIONREDUCE
+"Nearer locations, please",LOCATIONREDUCE
+"Too distant for me.",LOCATIONREDUCE
+"Somewhere farther.",LOCATIONINCREASE
+"I want to see places far and wide.",LOCATIONINCREASE
+"More distant is better",LOCATIONINCREASE
+"This is way too close, I want something exotic.",LOCATIONINCREASE
+"Can I have something farther away?",LOCATIONINCREASE
+"Overseas options would be appreciated.",LOCATIONINCREASE
+"I want places farther away.",LOCATIONINCREASE
+"I want places on another continent.",LOCATIONINCREASE
+"I should have to take a plane for it to be a real trip.",LOCATIONINCREASE
+"I want to leave the country.",LOCATIONINCREASE
+"None of these results are far away enough from home.",LOCATIONINCREASE
+"These results are too close; I want something farther away.",LOCATIONINCREASE
+"I don't want to travel this far.",LOCATIONREDUCE
+"I want to travel further than this.",LOCATIONINCREASE
+"I need results that are closer to home.",LOCATIONREDUCE
+"I need results that are further from home.",LOCATIONINCREASE
+"These results take too much travel time.",LOCATIONREDUCE
+"I'd like to stay closer to home.",LOCATIONREDUCE
+"I'd like to go further from home.",LOCATIONINCREASE
+"I want more exotic results.",LOCATIONINCREASE
+"I want more local results.",LOCATIONREDUCE
+"These results are too close to home.",LOCATIONINCREASE
+"These results are too far from home.",LOCATIONREDUCE
+"Can I see locations that are further away?",LOCATIONINCREASE
+"Can I see locations that are closer to me?",LOCATIONREDUCE
+"I want to travel to a more unknown destination.",LOCATIONINCREASE
+"I want to travel to a well known destination.",LOCATIONREDUCE
+"I want to go somewhere new.",LOCATIONINCREASE
+"I want to go somewhere familiar",LOCATIONREDUCE
+"None of these results are close enough.",LOCATIONREDUCE
+"None of these results are far enough away.",LOCATIONINCREASE
+"I'm okay with spending more money.",PRICEINCREASE
+"I'm okay with spending less money.",PRICEREDUCE
+"None of these results are close enough to home.",LOCATIONREDUCE
+"None of these results are close enough.",LOCATIONREDUCE
+"I want something nicer.",PRICEINCREASE
+"I'm okay with spending more money.",PRICEINCREASE
+"I'm okay with spending more than this",PRICEINCREASE
+"I want to save money.",PRICEREDUCE
+"I want to spend money.",PRICEINCREASE
